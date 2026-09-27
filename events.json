@@ -1,15 +1,4 @@
 {
   "version": 1,
-  "event": {
-    "id": "1a0e197da58",
-    "name": "Ryft event",
-    "description": "YAY",
-    "server": "n-nyc-20.folium.host:25085",
-    "mc": "1.21.11",
-    "loader": "fabric",
-    "mods": [],
-    "prizeType": "money",
-    "prize": "100000",
-    "created": 1790491220568
-  }
+  "event": null
 }
