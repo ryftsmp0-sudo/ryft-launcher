@@ -1,15 +1,4 @@
 {
   "version": 1,
-  "event": {
-    "id": "1a0e4641a7f",
-    "name": "hunger games",
-    "description": "hunger games",
-    "server": "n-nyc-20.folium.host:25085",
-    "mc": "1.21.11",
-    "loader": "fabric",
-    "mods": [],
-    "prizeType": "money",
-    "prize": "100000",
-    "created": 1790538160767
-  }
+  "event": null
 }
