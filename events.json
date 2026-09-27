@@ -1,15 +1,4 @@
 {
   "version": 1,
-  "event": {
-    "id": "1a0e52a1b8f",
-    "name": "Ryft",
-    "description": "HUNGER GAMES",
-    "server": "n-nyc-20.folium.host:25085",
-    "mc": "1.21.11",
-    "loader": "fabric",
-    "mods": [],
-    "prizeType": "money",
-    "prize": "1000000000",
-    "created": 1790551137167
-  }
+  "event": null
 }
