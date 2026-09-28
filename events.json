@@ -1,4 +1,56 @@
 {
   "version": 1,
-  "event": null
+  "event": {
+    "id": "1a0e6351016",
+    "name": "Hunger games",
+    "description": "HUNGER games",
+    "server": "n-nyc-20.folium.host:25085",
+    "mc": "1.21.11",
+    "loader": "fabric",
+    "mods": [
+      {
+        "id": "AANobbMI",
+        "title": "Sodium"
+      },
+      {
+        "id": "gvQqBUqZ",
+        "title": "Lithium"
+      },
+      {
+        "id": "uXXizFIs",
+        "title": "FerriteCore"
+      },
+      {
+        "id": "NNAgCjsB",
+        "title": "EntityCulling"
+      },
+      {
+        "id": "P7dR8mSH",
+        "title": "Fabric API"
+      },
+      {
+        "id": "5ZwdcRci",
+        "title": "ImmediatelyFast"
+      },
+      {
+        "id": "mOgUt4GM",
+        "title": "Mod Menu"
+      },
+      {
+        "id": "eXts2L7r",
+        "title": "Placeholder API"
+      },
+      {
+        "id": "Bh37bMuy",
+        "title": "Reese's Sodium Options"
+      },
+      {
+        "id": "9eGKb6K1",
+        "title": "Simple Voice Chat"
+      }
+    ],
+    "prizeType": "money",
+    "prize": "100000000",
+    "created": 1790568632343
+  }
 }
